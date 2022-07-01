@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\MicroService_CRUD\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+587924073.index
+4010593919.index
+3326343837.index
+1108742570.index
+4081881547.index

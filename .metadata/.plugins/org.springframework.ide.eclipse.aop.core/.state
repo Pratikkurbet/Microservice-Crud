@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="11062022_Delete"/>
+<aop-project name="11062022_Create"/>
+<aop-project name="spring-ng-blog"/>
+<aop-project name="11062022_EurekaServerForCrud"/>
+<aop-project name="11062022_Update"/>
+<aop-project name="11062022_Read"/>
+</aop-reference-model>
